@@ -1,2 +1,2 @@
 # 🌈 Arcenciel
-Arcenciel is an AI-driven platform that leverages Effective Altruism principles to optimize decisions.
+Arcenciel is an AI agent that uses Effective Altruism principles to optimize decision-making
